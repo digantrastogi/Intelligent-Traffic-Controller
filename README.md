@@ -1,10 +1,9 @@
 # Intelligent-Traffic-Controller
 - [Intelligent-Traffic-Controller](#intelligent-traffic-controller)
-  * [Project Abstract 🙋](#project-abstract---)
-  * [Project Background💡](#project-background--)
-  * [Technology Stack 🛠️](#technology-stack----)
-  * [Learning Resources 🧰](#learning-resources---)
-  * [License📜](#license--)
+  * [Project Abstract 🙋](#project-abstract-🙋)
+  * [Project Background 💡](#project-background-💡)
+  * [Technology Stack 🛠️](#technology-stack-🛠️)
+  * [Learning Resources 🧰](#learning-resources-🧰)
 
 ## Project Abstract 🙋
 All modern roadways have to deal with high traffic densities which lead to congestion and road blocks for hours. Conventional traffic control systems have a major drawback: Due to lack of adjustments in timing of traffic signals, the traffic has to wait for a long duration on the lane with few vehicles, while on the same lane the traffic cannot pass through in a short time due to rush on lane. So, there is a need to develop a secure, fast and reliable traffic control system capable of controlling vehicular traffic in rush hours without a need for a traffic sergeant.
